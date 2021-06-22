@@ -15,8 +15,8 @@ Go to this website [here](https://JKLM.FUN)__
 Run the script(read the directions)__
 when its your turn type the phrase given to you in the center, for example ("en","at","ic", etc.)  
 after typing the phrase hit "+" and wait for a word to be returned:  
-  if the word is not correct hit "-" and type the phrase again  
-  the same word will not get chosen twice.  
+&nbsp;if the word is not correct hit "-" and type the phrase again  
+&nbsp;the same word will not get chosen twice.  
 ```
 + : searches for a phrase in the textbox
 - : clears the saved phrase (hit this key after each turn)
