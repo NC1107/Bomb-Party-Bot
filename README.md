@@ -22,8 +22,9 @@ if you have any issues installing multiple libraries at once try doing it one at
 - : clears the saved phrase (hit this key after each turn or failed word.)
 ```
 ## Support
-If you are unsure how to use this program feel free to send me a message.
-Discord: NickNickNick#2157
+If you are unsure how to use this program feel free to send me a message.  
+Discord: NickNickNick#2157  
+Discord Server: [link](https://discord.gg/EwQ5HGP)
 
 ## Contributing
 
