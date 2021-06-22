@@ -17,13 +17,14 @@ Run the script and make sure you understand how it works
 + : searches for a phrase in the textbox
 - : clears the saved phrase (hit this key after each turn)
 ```
-
-
+## Support
+If you are unsure how to use this program feel free to send me a message.
+Discord: NickNickNick#2157
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+I'm not a great programmer so I'm sure there are bugs, I made this in 20 minutes to beat my friends.(the ReadMe is taking longer to make)
+So any suggestions on how to improve/ or bug fixes are welcome.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Feel free to use this code, with or without credit :)
