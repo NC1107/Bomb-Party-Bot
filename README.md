@@ -11,8 +11,12 @@ pip install pynput re pyautogui
 if you have any issues installing multiple libraries at once try doing it one at a time.
 
 ## Usage
-Go to this website [here](https://JKLM.FUN)
-Run the script and make sure you understand how it works
+Go to this website [here](https://JKLM.FUN)__
+Run the script(read the directions)__
+when its your turn type the phrase given to you in the center, for example ("en","at","ic", etc.)__
+after typing the phrase hit "+" and wait for a word to be returned:__
+  if the word is not correct hit "-" and type the phrase again__
+  the same word will not get chosen twice.__
 ```
 + : searches for a phrase in the textbox
 - : clears the saved phrase (hit this key after each turn)
