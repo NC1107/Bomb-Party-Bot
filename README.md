@@ -19,7 +19,7 @@ if you have any issues installing multiple libraries at once try doing it one at
      * the same word will not get chosen twice.  
 ```
 + : searches for a phrase in the textbox
-- : clears the saved phrase (hit this key after each turn)
+- : clears the saved phrase (hit this key after each turn or failed word.)
 ```
 ## Support
 If you are unsure how to use this program feel free to send me a message.
