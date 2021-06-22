@@ -11,8 +11,8 @@ pip install pynput re pyautogui
 if you have any issues installing multiple libraries at once try doing it one at a time.
 
 ## Usage
-Markup : * Go to this website [here](https://JKLM.FUN)__
-  * Run the script(read the directions)__
+ * Go to this website [here](https://JKLM.FUN)  
+  * Run the script(read the directions)  
 when its your turn type the phrase given to you in the center, for example ("en","at","ic", etc.)  
 after typing the phrase hit "+" and wait for a word to be returned:  
 &nbsp;if the word is not correct hit "-" and type the phrase again  
