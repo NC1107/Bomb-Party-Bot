@@ -34,7 +34,7 @@ class CurrentGame:
     def __init__(self):
         self.currentString = ""
         self.usedWords = []
-        self.textFileName = "English_Words.txt"
+        self.textFileName = "wordlist.txt"
 
     def addToString(self, letter: str):
         if letter.isalpha():
