@@ -8,7 +8,7 @@ This is a simple helper to help you when you get stuck while playing Bomb Party,
 ```bash
 pip install pynput re pyautogui
 ```
-if you have any issues installing multiple libraries at once try doing it one at a time.
+if you have any issues installing multiple libraries at once try doing it one at a time.  
 **you have to unzip the file or else it will not work.**
 
 ## Usage
