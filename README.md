@@ -1,6 +1,6 @@
 # Bomb Party Helper
 This is a simple helper to help you when you get stuck while playing Bomb Party, This project is also for educational purposes, using this can result in a ban(probably).
-The better your word list, the better the bot will work, ill attach a simple english dictionary list
+The better your word list, the better the bot will work, i'll attach a simple english dictionary list
 
 ## Installation
 
