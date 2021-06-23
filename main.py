@@ -1,16 +1,14 @@
 from pynput.keyboard import Listener
 from re import search
 import pyautogui
-import os
 
 
 def clearConsole():
-    print('\n' * 75)
-
+    import os
+    os.system('cls')
 
 def clearTextBox():
     pyautogui.press("backspace", presses=10)
-    # clear game textbos
 
 
 def find_word(_Game):
