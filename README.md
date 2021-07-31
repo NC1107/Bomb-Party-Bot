@@ -7,7 +7,7 @@ The better your word list, the better the bot will work, i'll attach a simple en
 1. Download the project files (or release if I get around to making one)
 2. Make sure you have the required libraries installed:
 ```bash
-pip install pynput re pyautogui
+pip install pynput pyautogui
 ```
 if you have any issues installing multiple libraries at once try doing it one at a time.  
 **you have to unzip the file or else it will not work.**
