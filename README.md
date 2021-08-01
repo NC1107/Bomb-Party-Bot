@@ -4,7 +4,7 @@ The better your word list, the better the bot will work, i'll attach a simple en
 
 ## Installation
 
-1. Download the latest release, you will also need to have python and python default libraries installed. 
+1. Download the latest release, you will also need to have python the default libraries from python installed. 
 2. Make sure you have the required libraries installed:
 ```bash
 pip install pynput pyautogui
