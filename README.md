@@ -1,37 +1,33 @@
-# Bomb Party Helper
-This is a simple helper to help you when you get stuck while playing Bomb Party, This project is also for educational purposes, using this can result in a ban(probably).
-The better your word list, the better the bot will work, i'll attach a simple english dictionary list
 
-## Installation
+# Bomb Party Helper: A Quick Assist Tool
+A simple yet effective helper tool for the game Bomb Party, designed for educational purposes. Utilization in gameplay may result in a ban, so use with caution. Enhance the bot's performance with a comprehensive word list, included in the package.
 
-1. Download the latest release, you will also need to have python the default libraries from python installed. 
-2. Make sure you have the required libraries installed:
-```bash
-pip install pynput pyautogui
-```
-if you have any issues installing multiple libraries at once try doing it one at a time.  
-**you have to unzip the file or else it will not work.**
+## Installation Instructions
+1. Download the latest release. Python and its default libraries are required.
+2. Ensure necessary libraries are installed:
+   ```bash
+   pip install pynput pyautogui
+   ```
+   Install libraries individually if encountering issues. Remember to unzip the file for functionality.
 
-## Usage
- * Go to this website [here](https://JKLM.FUN)  
- * Run the script(read the directions)  
- * when its your turn type the phrase given to you in the center, for example ("en","at","ic", etc.)  
- * after typing the phrase hit "+" and wait for a word to be returned:  
-     * if the word is not correct hit "-" and type the phrase again  
-     * the same word will not get chosen twice.  
-```
-+ : searches for a phrase in the textbox
-- : clears the saved phrase (make sure your phrase is emptied before entering another one.)
-```
-## Support
-If you are unsure how to use this program feel free to send me a message.  
-Discord: NickNickNick#2157  
-Discord Server: [link](https://discord.gg/EwQ5HGP)
+## How to Use
+1. Visit [JKLM.FUN](https://JKLM.FUN).
+2. Execute the script as per the instructions.
+3. During your turn, type the given phrase (e.g., "en", "at", "ic") and press "+":
+   - If the suggested word is incorrect, press "-" and re-enter the phrase.
+   - The same word will not be suggested twice.
+   ```
+   + : Searches for a phrase in the textbox.
+   - : Clears the saved phrase (clear the textbox before entering a new phrase).
+   ```
 
-## Contributing
+## Support and Contact
+For assistance or inquiries, feel free to reach out:
+- Discord: NickNickNick#2157
+- [Join My Discord Server](https://discord.gg/EwQ5HGP)
 
-I'm not a great programmer so I'm sure there are bugs, I made this in 20 minutes to beat my friends.(the ReadMe is taking longer to make)
-So any suggestions on how to improve/ or bug fixes are welcome.
+## Contributions
+Feedback and contributions are welcome. This project was created in a short time frame, so improvements and bug fixes are appreciated.
 
 ## License
-Feel free to use this code, with or without credit :)
+This code is available for use with or without credit, as you prefer.
